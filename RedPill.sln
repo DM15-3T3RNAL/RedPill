@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPill", "combinedDisable\RedPill.csproj", "{D127A170-BC79-4631-8E4E-41CD4F4F2279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D127A170-BC79-4631-8E4E-41CD4F4F2279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D127A170-BC79-4631-8E4E-41CD4F4F2279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D127A170-BC79-4631-8E4E-41CD4F4F2279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D127A170-BC79-4631-8E4E-41CD4F4F2279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6395333-3F32-4612-B226-580729080EF3}
+	EndGlobalSection
+EndGlobal

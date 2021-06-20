@@ -1,0 +1,7 @@
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\bin\Debug\combinedDisable.exe.config
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\bin\Debug\combinedDisable.exe
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\bin\Debug\combinedDisable.pdb
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\obj\Debug\combinedDisable.csproj.CoreCompileInputs.cache
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\obj\Debug\combinedDisable.exe
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\obj\Debug\combinedDisable.pdb
+C:\Users\shujaat\source\repos\combinedDisable\combinedDisable\obj\Debug\combinedDisable.csproj.AssemblyReference.cache
