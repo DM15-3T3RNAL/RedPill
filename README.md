@@ -19,7 +19,7 @@ After loading the RedPill.dll using reflection, just access any of the 4 mention
 [RedPill.DetectAndDisable]::PatchOpenSession() ## invoke the method to disbable AMSI
 ```
 
-## Environment
+## Tested On
 
 .Net version 4.7.2
 
