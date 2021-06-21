@@ -16,7 +16,7 @@ After loading the RedPill.dll using reflection, just access any of the 4 mention
 
 ```powershell
 [Reflection.Assembly]::LoadFile("C:\RedPill.dll") ##load the dll
-[RedPill.DetectAndDisable]::PatchOpenSession() ## invoke the method to disbable AMSI
+[RedPill.DetectAndDisable]::PatchOpenSession() ## invoke the method to disable AMSI
 ```
 
 ## Tested On
