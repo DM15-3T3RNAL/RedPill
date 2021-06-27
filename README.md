@@ -24,3 +24,9 @@ After loading the RedPill.dll using reflection, just access any of the 4 mention
 .Net version 4.7.2
 
 Windows 10
+
+## Refrence 
+https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/
+https://www.cyberark.com/resources/threat-research-blog/amsi-bypass-patching-technique
+https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
+https://github.com/PowerShellMafia
